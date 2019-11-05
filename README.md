@@ -2,7 +2,7 @@
 
 ## Description
 
-Panorama Tab Groups is an easy way to organize a lot of tabs. You can visually group related tabs and switch between groups.
+Panorama Tab Groups is an easy way to  a lot of tabs. You can visually group related tabs and switch between groups.
 
 Panorama Tab Groups is an updated and maintained fork of [Panorama View](https://github.com/photodiode/panorama-view) which is an implementation of the old [Panorama/Tab Groups add-on](https://addons.mozilla.org/en-US/firefox/addon/tab-groups-panorama/) which was deprecated with the new Firefox web extension system.
 
